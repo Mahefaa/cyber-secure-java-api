@@ -1,4 +1,4 @@
-# Secure Java API
+# Working Secure Java API
 
 Secure Java/Spring Boot API focusing on authentication, validation, Docker containerization, and PostgreSQL.
 
